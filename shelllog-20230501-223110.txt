@@ -1,0 +1,6 @@
+ls
+log.txt     multishell.c                  singleshell
+multishell  shelllog-20230501-223110.txt  singleshell.c
+pwd
+/home/zeynep/Desktop
+exit

@@ -1,0 +1,6 @@
+Process ID: 7970
+Parent Process ID: 7917
+Başlangıç tarihi: 2023-05-01 Process 
+Input:./main
+Input:exit
+Bitiş tarihi: 2023-05-01 23:08:24
